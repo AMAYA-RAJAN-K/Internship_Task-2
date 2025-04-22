@@ -51,7 +51,4 @@ To analyze and visualize Superstore sales data using Power BI, aiming to uncover
 
 ---
 
-## 📎 Repository Link
-
-[Internship_Task-2](https://github.com/AMAYA-RAJAN-K/Internship_Task-2)
 
